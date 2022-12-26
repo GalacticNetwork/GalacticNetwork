@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-# 🔭 I’m currently working on SurfTheWeb V2
+# 🔭 I’m currently working on LTBPEM
 # 🌱 I’m currently learning HTML,CSS and JS
-# https://dsc.gg/teamjs
+# https://dsc.gg/gnetwork
 join the discord!
